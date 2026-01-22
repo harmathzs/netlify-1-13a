@@ -1,5 +1,6 @@
 {
   "name": "react-app",
+  "homepage": "https://netlify-my-test-hzs-02.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
